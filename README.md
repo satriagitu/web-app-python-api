@@ -38,6 +38,7 @@ curl --location 'localhost:8000/api/v1/auth/register/' \
 }'
 ```
 
+### Login Auth
 ```bash
 curl --location 'localhost:8000/api/v1/auth/token/' \
 --header 'Content-Type: application/json' \
@@ -47,13 +48,16 @@ curl --location 'localhost:8000/api/v1/auth/token/' \
 }'
 ```
 
+### Refresh Token
 ```bash
 curl --location 'localhost:8000/api/v1/auth/token/refresh/' \
 --header 'Content-Type: application/json' \
 --data '{
     "refresh":"<refresh_token>"
 }'
+```
 
+### Create Post 
 ```bash
 curl --location 'localhost:8000/api/v1/blog/post/' \
 --header 'Content-Type: application/json' \
@@ -65,12 +69,14 @@ curl --location 'localhost:8000/api/v1/blog/post/' \
     "categories": [1]
 ```
 
+### Get Post Detail
 ```bash
 curl --location --request GET 'localhost:8000/api/v1/blog/post/7/' \
 --header 'Content-Type: application/json' \
 --header 'Authorization: Bearer <access_token>'
 ```
 
+### Update Post
 ```bash
 curl --location --request PATCH 'localhost:8000/api/v1/blog/post/update/7/' \
 --header 'Content-Type: application/json' \
@@ -80,12 +86,14 @@ curl --location --request PATCH 'localhost:8000/api/v1/blog/post/update/7/' \
 }'
 ```
 
+### Delete Posts
 ```bash
 curl --location --request DELETE 'localhost:8000/api/v1/blog/post/delete/7/' \
 --header 'Content-Type: application/json' \
 --header 'Authorization: Bearer <access_token>'
 ```
 
+### Get List Posts
 ```bash
 curl --location --request GET 'localhost:8000/api/v1/blog/post/list' \
 --header 'Content-Type: application/json' \
