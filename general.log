@@ -1,0 +1,1814 @@
+2024-02-18 11:39:49,880 (INFO)- django.utils.autoreload- Watching for file changes with StatReloader
+2024-02-18 11:39:49,944 (INFO)- blogs.serializers- author_id: PrimaryKeyRelatedField(read_only=True, source='author')
+2024-02-18 11:40:24,267 (INFO)- django.utils.autoreload- /home/satriagitu/code/python-project/web_app_python_api/blogs/views.py changed, reloading.
+2024-02-18 11:40:24,509 (INFO)- django.utils.autoreload- Watching for file changes with StatReloader
+2024-02-18 11:40:29,669 (INFO)- django.utils.autoreload- /home/satriagitu/code/python-project/web_app_python_api/blogs/views.py changed, reloading.
+2024-02-18 11:40:29,911 (INFO)- django.utils.autoreload- Watching for file changes with StatReloader
+2024-02-18 11:40:35,077 (INFO)- django.utils.autoreload- /home/satriagitu/code/python-project/web_app_python_api/blogs/views.py changed, reloading.
+2024-02-18 11:40:35,314 (INFO)- django.utils.autoreload- Watching for file changes with StatReloader
+2024-02-18 11:40:35,385 (INFO)- blogs.serializers- author_id: PrimaryKeyRelatedField(read_only=True, source='author')
+2024-02-18 11:40:35,386 (INFO)- blogs.views- queryset: <QuerySet [<Post: Post 1>, <Post: Post 2>, <Post: Post 3>, <Post: Post 4>]>
+2024-02-18 11:42:54,429 (INFO)- django.utils.autoreload- /home/satriagitu/code/python-project/web_app_python_api/blogs/views.py changed, reloading.
+2024-02-18 11:42:54,642 (INFO)- django.utils.autoreload- Watching for file changes with StatReloader
+2024-02-18 11:42:54,714 (INFO)- blogs.serializers- author_id: PrimaryKeyRelatedField(read_only=True, source='author')
+2024-02-18 11:44:24,141 (INFO)- django.utils.autoreload- Watching for file changes with StatReloader
+2024-02-18 11:44:24,206 (INFO)- blogs.serializers- author_id: PrimaryKeyRelatedField(read_only=True, source='author')
+2024-02-18 11:44:24,216 (INFO)- blogs.views- log {'id': 7, 'author_id': 1, 'title': 'Post 1', 'content': 'Isi aja', 'created_at': '2024-02-18T10:46:57.804842Z', 'updated_at': '2024-02-18T10:46:57.804886Z', 'author': 1, 'categories': [1]}
+2024-02-18 11:45:01,602 (INFO)- django.utils.autoreload- /home/satriagitu/code/python-project/web_app_python_api/blogs/views.py changed, reloading.
+2024-02-18 11:45:01,828 (INFO)- django.utils.autoreload- Watching for file changes with StatReloader
+2024-02-18 11:45:01,895 (INFO)- blogs.serializers- author_id: PrimaryKeyRelatedField(read_only=True, source='author')
+2024-02-18 11:45:01,906 (INFO)- blogs.views- log {'id': 15, 'author_id': 1, 'title': 'Post 5', 'content': 'Isi aja 5', 'created_at': '2024-02-18T11:40:54.124286Z', 'updated_at': '2024-02-18T11:40:54.124301Z', 'author': 1, 'categories': [1]}
+2024-02-18 11:45:07,039 (INFO)- django.utils.autoreload- /home/satriagitu/code/python-project/web_app_python_api/blogs/views.py changed, reloading.
+2024-02-18 11:45:07,256 (INFO)- django.utils.autoreload- Watching for file changes with StatReloader
+2024-02-18 11:45:07,323 (INFO)- blogs.serializers- author_id: PrimaryKeyRelatedField(read_only=True, source='author')
+2024-02-18 11:46:49,160 (INFO)- django.utils.autoreload- /home/satriagitu/code/python-project/web_app_python_api/blogs/serializers.py changed, reloading.
+2024-02-18 11:46:49,411 (INFO)- django.utils.autoreload- Watching for file changes with StatReloader
+2024-02-18 11:46:49,486 (INFO)- blogs.serializers- author_id: PrimaryKeyRelatedField(read_only=True, source='author')
+2024-02-18 11:47:03,103 (INFO)- django.utils.autoreload- Watching for file changes with StatReloader
+2024-02-18 11:47:03,166 (INFO)- blogs.serializers- author_id: PrimaryKeyRelatedField(read_only=True, source='author')
+2024-02-18 11:47:10,308 (WARNING)- django.request- Unauthorized: /api/v1/blog/post
+2024-02-18 11:48:29,849 (INFO)- django.utils.autoreload- /home/satriagitu/code/python-project/web_app_python_api/blogs/serializers.py changed, reloading.
+2024-02-18 11:48:30,073 (INFO)- django.utils.autoreload- Watching for file changes with StatReloader
+2024-02-18 11:48:45,312 (INFO)- django.utils.autoreload- /home/satriagitu/code/python-project/web_app_python_api/blogs/serializers.py changed, reloading.
+2024-02-18 11:48:45,545 (INFO)- django.utils.autoreload- Watching for file changes with StatReloader
+2024-02-18 11:48:56,776 (INFO)- django.utils.autoreload- /home/satriagitu/code/python-project/web_app_python_api/blogs/serializers.py changed, reloading.
+2024-02-18 11:48:56,993 (INFO)- django.utils.autoreload- Watching for file changes with StatReloader
+2024-02-18 11:50:31,850 (INFO)- django.utils.autoreload- /home/satriagitu/code/python-project/web_app_python_api/blogs/serializers.py changed, reloading.
+2024-02-18 11:50:32,071 (INFO)- django.utils.autoreload- Watching for file changes with StatReloader
+2024-02-18 11:50:37,817 (WARNING)- django.request- Unauthorized: /api/v1/blog/post
+2024-02-18 11:50:43,127 (ERROR)- django.request- Internal Server Error: /api/v1/blog/post
+Traceback (most recent call last):
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/backends/utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+psycopg2.errors.NotNullViolation: null value in column "author_id" of relation "blogs_post" violates not-null constraint
+DETAIL:  Failing row contains (18, Post 8, Isi aja 8, 2024-02-18 11:50:43.101604+00, 2024-02-18 11:50:43.101619+00, null).
+
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/views/generic/base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/generics.py", line 190, in post
+    return self.create(request, *args, **kwargs)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/mixins.py", line 19, in create
+    self.perform_create(serializer)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/mixins.py", line 24, in perform_create
+    serializer.save()
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/serializers.py", line 205, in save
+    self.instance = self.create(validated_data)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/serializers.py", line 939, in create
+    instance = ModelClass._default_manager.create(**validated_data)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/models/manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/models/query.py", line 447, in create
+    obj.save(force_insert=True, using=self.db)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/models/base.py", line 753, in save
+    self.save_base(using=using, force_insert=force_insert,
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/models/base.py", line 790, in save_base
+    updated = self._save_table(
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/models/base.py", line 895, in _save_table
+    results = self._do_insert(cls._base_manager, using, fields, returning_fields, raw)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/models/base.py", line 933, in _do_insert
+    return manager._insert(
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/models/manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/models/query.py", line 1254, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/models/sql/compiler.py", line 1397, in execute_sql
+    cursor.execute(sql, params)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/backends/utils.py", line 98, in execute
+    return super().execute(sql, params)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/backends/utils.py", line 66, in execute
+    return self._execute_with_wrappers(sql, params, many=False, executor=self._execute)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/backends/utils.py", line 75, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/backends/utils.py", line 79, in _execute
+    with self.db.wrap_database_errors:
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/utils.py", line 90, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/backends/utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+django.db.utils.IntegrityError: null value in column "author_id" of relation "blogs_post" violates not-null constraint
+DETAIL:  Failing row contains (18, Post 8, Isi aja 8, 2024-02-18 11:50:43.101604+00, 2024-02-18 11:50:43.101619+00, null).
+
+2024-02-18 11:50:49,386 (INFO)- django.utils.autoreload- /home/satriagitu/code/python-project/web_app_python_api/blogs/serializers.py changed, reloading.
+2024-02-18 11:50:49,649 (INFO)- django.utils.autoreload- Watching for file changes with StatReloader
+2024-02-18 11:50:54,106 (ERROR)- django.request- Internal Server Error: /api/v1/blog/post
+Traceback (most recent call last):
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/views/generic/base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/generics.py", line 190, in post
+    return self.create(request, *args, **kwargs)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/mixins.py", line 18, in create
+    serializer.is_valid(raise_exception=True)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/serializers.py", line 220, in is_valid
+    self._validated_data = self.run_validation(self.initial_data)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/serializers.py", line 419, in run_validation
+    value = self.to_internal_value(data)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/serializers.py", line 472, in to_internal_value
+    for field in fields:
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/serializers.py", line 355, in _writable_fields
+    for field in self.fields.values():
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/utils/functional.py", line 48, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/serializers.py", line 349, in fields
+    for key, value in self.get_fields().items():
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/serializers.py", line 1029, in get_fields
+    field_names = self.get_field_names(declared_fields, info)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/serializers.py", line 1125, in get_field_names
+    assert field_name in fields, (
+AssertionError: The field 'author_id' was declared on serializer PostSerializer, but has not been included in the 'fields' option.
+2024-02-18 11:51:05,935 (INFO)- django.utils.autoreload- /home/satriagitu/code/python-project/web_app_python_api/blogs/serializers.py changed, reloading.
+2024-02-18 11:51:06,235 (INFO)- django.utils.autoreload- Watching for file changes with StatReloader
+2024-02-18 11:51:57,842 (INFO)- django.utils.autoreload- /home/satriagitu/code/python-project/web_app_python_api/blogs/serializers.py changed, reloading.
+2024-02-18 11:51:58,070 (INFO)- django.utils.autoreload- Watching for file changes with StatReloader
+2024-02-18 11:52:09,112 (ERROR)- django.request- Internal Server Error: /api/v1/blog/post
+Traceback (most recent call last):
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/backends/utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+psycopg2.errors.NotNullViolation: null value in column "author_id" of relation "blogs_post" violates not-null constraint
+DETAIL:  Failing row contains (20, Post 9, Isi aja 9, 2024-02-18 11:52:09.08595+00, 2024-02-18 11:52:09.085964+00, null).
+
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/views/generic/base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/generics.py", line 190, in post
+    return self.create(request, *args, **kwargs)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/mixins.py", line 19, in create
+    self.perform_create(serializer)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/mixins.py", line 24, in perform_create
+    serializer.save()
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/serializers.py", line 205, in save
+    self.instance = self.create(validated_data)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/serializers.py", line 939, in create
+    instance = ModelClass._default_manager.create(**validated_data)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/models/manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/models/query.py", line 447, in create
+    obj.save(force_insert=True, using=self.db)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/models/base.py", line 753, in save
+    self.save_base(using=using, force_insert=force_insert,
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/models/base.py", line 790, in save_base
+    updated = self._save_table(
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/models/base.py", line 895, in _save_table
+    results = self._do_insert(cls._base_manager, using, fields, returning_fields, raw)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/models/base.py", line 933, in _do_insert
+    return manager._insert(
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/models/manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/models/query.py", line 1254, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/models/sql/compiler.py", line 1397, in execute_sql
+    cursor.execute(sql, params)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/backends/utils.py", line 98, in execute
+    return super().execute(sql, params)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/backends/utils.py", line 66, in execute
+    return self._execute_with_wrappers(sql, params, many=False, executor=self._execute)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/backends/utils.py", line 75, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/backends/utils.py", line 79, in _execute
+    with self.db.wrap_database_errors:
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/utils.py", line 90, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/backends/utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+django.db.utils.IntegrityError: null value in column "author_id" of relation "blogs_post" violates not-null constraint
+DETAIL:  Failing row contains (20, Post 9, Isi aja 9, 2024-02-18 11:52:09.08595+00, 2024-02-18 11:52:09.085964+00, null).
+
+2024-02-18 11:56:51,405 (INFO)- django.utils.autoreload- /home/satriagitu/code/python-project/web_app_python_api/blogs/serializers.py changed, reloading.
+2024-02-18 11:56:51,631 (INFO)- django.utils.autoreload- Watching for file changes with StatReloader
+2024-02-18 11:57:06,076 (ERROR)- django.request- Internal Server Error: /api/v1/blog/post
+Traceback (most recent call last):
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/backends/utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+psycopg2.errors.NotNullViolation: null value in column "author_id" of relation "blogs_post" violates not-null constraint
+DETAIL:  Failing row contains (21, Post 10, Isi aja 10, 2024-02-18 11:57:06.048147+00, 2024-02-18 11:57:06.048162+00, null).
+
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/views/generic/base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/generics.py", line 190, in post
+    return self.create(request, *args, **kwargs)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/mixins.py", line 19, in create
+    self.perform_create(serializer)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/mixins.py", line 24, in perform_create
+    serializer.save()
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/serializers.py", line 205, in save
+    self.instance = self.create(validated_data)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/serializers.py", line 939, in create
+    instance = ModelClass._default_manager.create(**validated_data)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/models/manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/models/query.py", line 447, in create
+    obj.save(force_insert=True, using=self.db)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/models/base.py", line 753, in save
+    self.save_base(using=using, force_insert=force_insert,
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/models/base.py", line 790, in save_base
+    updated = self._save_table(
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/models/base.py", line 895, in _save_table
+    results = self._do_insert(cls._base_manager, using, fields, returning_fields, raw)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/models/base.py", line 933, in _do_insert
+    return manager._insert(
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/models/manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/models/query.py", line 1254, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/models/sql/compiler.py", line 1397, in execute_sql
+    cursor.execute(sql, params)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/backends/utils.py", line 98, in execute
+    return super().execute(sql, params)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/backends/utils.py", line 66, in execute
+    return self._execute_with_wrappers(sql, params, many=False, executor=self._execute)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/backends/utils.py", line 75, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/backends/utils.py", line 79, in _execute
+    with self.db.wrap_database_errors:
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/utils.py", line 90, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/backends/utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+django.db.utils.IntegrityError: null value in column "author_id" of relation "blogs_post" violates not-null constraint
+DETAIL:  Failing row contains (21, Post 10, Isi aja 10, 2024-02-18 11:57:06.048147+00, 2024-02-18 11:57:06.048162+00, null).
+
+2024-02-18 12:00:24,333 (INFO)- django.utils.autoreload- /home/satriagitu/code/python-project/web_app_python_api/blogs/models.py changed, reloading.
+2024-02-18 12:00:24,558 (INFO)- django.utils.autoreload- Watching for file changes with StatReloader
+2024-02-18 12:35:40,853 (INFO)- django.utils.autoreload- Watching for file changes with StatReloader
+2024-02-18 12:35:59,353 (ERROR)- django.request- Internal Server Error: /api/v1/blog/post
+Traceback (most recent call last):
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/backends/utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+psycopg2.errors.NotNullViolation: null value in column "author_id" of relation "blogs_post" violates not-null constraint
+DETAIL:  Failing row contains (22, Post 11, Isi aja 11, 2024-02-18 12:35:59.328872+00, 2024-02-18 12:35:59.328886+00, null).
+
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/views/generic/base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/generics.py", line 190, in post
+    return self.create(request, *args, **kwargs)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/mixins.py", line 19, in create
+    self.perform_create(serializer)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/mixins.py", line 24, in perform_create
+    serializer.save()
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/serializers.py", line 205, in save
+    self.instance = self.create(validated_data)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/serializers.py", line 939, in create
+    instance = ModelClass._default_manager.create(**validated_data)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/models/manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/models/query.py", line 447, in create
+    obj.save(force_insert=True, using=self.db)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/models/base.py", line 753, in save
+    self.save_base(using=using, force_insert=force_insert,
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/models/base.py", line 790, in save_base
+    updated = self._save_table(
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/models/base.py", line 895, in _save_table
+    results = self._do_insert(cls._base_manager, using, fields, returning_fields, raw)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/models/base.py", line 933, in _do_insert
+    return manager._insert(
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/models/manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/models/query.py", line 1254, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/models/sql/compiler.py", line 1397, in execute_sql
+    cursor.execute(sql, params)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/backends/utils.py", line 98, in execute
+    return super().execute(sql, params)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/backends/utils.py", line 66, in execute
+    return self._execute_with_wrappers(sql, params, many=False, executor=self._execute)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/backends/utils.py", line 75, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/backends/utils.py", line 79, in _execute
+    with self.db.wrap_database_errors:
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/utils.py", line 90, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/backends/utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+django.db.utils.IntegrityError: null value in column "author_id" of relation "blogs_post" violates not-null constraint
+DETAIL:  Failing row contains (22, Post 11, Isi aja 11, 2024-02-18 12:35:59.328872+00, 2024-02-18 12:35:59.328886+00, null).
+
+2024-02-18 12:36:17,276 (INFO)- django.utils.autoreload- /home/satriagitu/code/python-project/web_app_python_api/blogs/serializers.py changed, reloading.
+2024-02-18 12:36:17,493 (INFO)- django.utils.autoreload- Watching for file changes with StatReloader
+2024-02-18 12:36:23,127 (ERROR)- django.request- Internal Server Error: /api/v1/blog/post
+Traceback (most recent call last):
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/backends/utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+psycopg2.errors.NotNullViolation: null value in column "author_id" of relation "blogs_post" violates not-null constraint
+DETAIL:  Failing row contains (23, Post 11, Isi aja 11, 2024-02-18 12:36:23.101002+00, 2024-02-18 12:36:23.101015+00, null).
+
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/views/generic/base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/generics.py", line 190, in post
+    return self.create(request, *args, **kwargs)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/mixins.py", line 19, in create
+    self.perform_create(serializer)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/mixins.py", line 24, in perform_create
+    serializer.save()
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/serializers.py", line 205, in save
+    self.instance = self.create(validated_data)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/serializers.py", line 939, in create
+    instance = ModelClass._default_manager.create(**validated_data)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/models/manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/models/query.py", line 447, in create
+    obj.save(force_insert=True, using=self.db)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/models/base.py", line 753, in save
+    self.save_base(using=using, force_insert=force_insert,
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/models/base.py", line 790, in save_base
+    updated = self._save_table(
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/models/base.py", line 895, in _save_table
+    results = self._do_insert(cls._base_manager, using, fields, returning_fields, raw)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/models/base.py", line 933, in _do_insert
+    return manager._insert(
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/models/manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/models/query.py", line 1254, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/models/sql/compiler.py", line 1397, in execute_sql
+    cursor.execute(sql, params)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/backends/utils.py", line 98, in execute
+    return super().execute(sql, params)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/backends/utils.py", line 66, in execute
+    return self._execute_with_wrappers(sql, params, many=False, executor=self._execute)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/backends/utils.py", line 75, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/backends/utils.py", line 79, in _execute
+    with self.db.wrap_database_errors:
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/utils.py", line 90, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/backends/utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+django.db.utils.IntegrityError: null value in column "author_id" of relation "blogs_post" violates not-null constraint
+DETAIL:  Failing row contains (23, Post 11, Isi aja 11, 2024-02-18 12:36:23.101002+00, 2024-02-18 12:36:23.101015+00, null).
+
+2024-02-18 12:36:39,819 (INFO)- django.utils.autoreload- /home/satriagitu/code/python-project/web_app_python_api/blogs/serializers.py changed, reloading.
+2024-02-18 12:36:40,060 (INFO)- django.utils.autoreload- Watching for file changes with StatReloader
+2024-02-18 12:37:56,745 (INFO)- django.utils.autoreload- /home/satriagitu/code/python-project/web_app_python_api/blogs/serializers.py changed, reloading.
+2024-02-18 12:37:56,997 (INFO)- django.utils.autoreload- Watching for file changes with StatReloader
+2024-02-18 12:37:59,685 (ERROR)- django.request- Internal Server Error: /api/v1/blog/post
+Traceback (most recent call last):
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/backends/utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+psycopg2.errors.NotNullViolation: null value in column "author_id" of relation "blogs_post" violates not-null constraint
+DETAIL:  Failing row contains (24, Post 11, Isi aja 11, 2024-02-18 12:37:59.657077+00, 2024-02-18 12:37:59.657091+00, null).
+
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/views/generic/base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/generics.py", line 190, in post
+    return self.create(request, *args, **kwargs)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/mixins.py", line 19, in create
+    self.perform_create(serializer)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/mixins.py", line 24, in perform_create
+    serializer.save()
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/serializers.py", line 205, in save
+    self.instance = self.create(validated_data)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/serializers.py", line 939, in create
+    instance = ModelClass._default_manager.create(**validated_data)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/models/manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/models/query.py", line 447, in create
+    obj.save(force_insert=True, using=self.db)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/models/base.py", line 753, in save
+    self.save_base(using=using, force_insert=force_insert,
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/models/base.py", line 790, in save_base
+    updated = self._save_table(
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/models/base.py", line 895, in _save_table
+    results = self._do_insert(cls._base_manager, using, fields, returning_fields, raw)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/models/base.py", line 933, in _do_insert
+    return manager._insert(
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/models/manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/models/query.py", line 1254, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/models/sql/compiler.py", line 1397, in execute_sql
+    cursor.execute(sql, params)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/backends/utils.py", line 98, in execute
+    return super().execute(sql, params)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/backends/utils.py", line 66, in execute
+    return self._execute_with_wrappers(sql, params, many=False, executor=self._execute)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/backends/utils.py", line 75, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/backends/utils.py", line 79, in _execute
+    with self.db.wrap_database_errors:
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/utils.py", line 90, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/backends/utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+django.db.utils.IntegrityError: null value in column "author_id" of relation "blogs_post" violates not-null constraint
+DETAIL:  Failing row contains (24, Post 11, Isi aja 11, 2024-02-18 12:37:59.657077+00, 2024-02-18 12:37:59.657091+00, null).
+
+2024-02-18 12:39:05,587 (ERROR)- django.request- Internal Server Error: /api/v1/blog/post
+Traceback (most recent call last):
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/backends/utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+psycopg2.errors.NotNullViolation: null value in column "author_id" of relation "blogs_post" violates not-null constraint
+DETAIL:  Failing row contains (25, Post 11, Isi aja 11, 2024-02-18 12:39:05.565629+00, 2024-02-18 12:39:05.565642+00, null).
+
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/views/generic/base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/generics.py", line 190, in post
+    return self.create(request, *args, **kwargs)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/mixins.py", line 19, in create
+    self.perform_create(serializer)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/mixins.py", line 24, in perform_create
+    serializer.save()
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/serializers.py", line 205, in save
+    self.instance = self.create(validated_data)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/serializers.py", line 939, in create
+    instance = ModelClass._default_manager.create(**validated_data)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/models/manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/models/query.py", line 447, in create
+    obj.save(force_insert=True, using=self.db)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/models/base.py", line 753, in save
+    self.save_base(using=using, force_insert=force_insert,
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/models/base.py", line 790, in save_base
+    updated = self._save_table(
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/models/base.py", line 895, in _save_table
+    results = self._do_insert(cls._base_manager, using, fields, returning_fields, raw)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/models/base.py", line 933, in _do_insert
+    return manager._insert(
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/models/manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/models/query.py", line 1254, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/models/sql/compiler.py", line 1397, in execute_sql
+    cursor.execute(sql, params)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/backends/utils.py", line 98, in execute
+    return super().execute(sql, params)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/backends/utils.py", line 66, in execute
+    return self._execute_with_wrappers(sql, params, many=False, executor=self._execute)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/backends/utils.py", line 75, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/backends/utils.py", line 79, in _execute
+    with self.db.wrap_database_errors:
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/utils.py", line 90, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/backends/utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+django.db.utils.IntegrityError: null value in column "author_id" of relation "blogs_post" violates not-null constraint
+DETAIL:  Failing row contains (25, Post 11, Isi aja 11, 2024-02-18 12:39:05.565629+00, 2024-02-18 12:39:05.565642+00, null).
+
+2024-02-18 12:39:23,770 (INFO)- django.utils.autoreload- /home/satriagitu/code/python-project/web_app_python_api/blogs/serializers.py changed, reloading.
+2024-02-18 12:39:24,019 (INFO)- django.utils.autoreload- Watching for file changes with StatReloader
+2024-02-18 12:39:32,463 (ERROR)- django.request- Internal Server Error: /api/v1/blog/post
+Traceback (most recent call last):
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/views/generic/base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/generics.py", line 190, in post
+    return self.create(request, *args, **kwargs)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/mixins.py", line 18, in create
+    serializer.is_valid(raise_exception=True)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/serializers.py", line 220, in is_valid
+    self._validated_data = self.run_validation(self.initial_data)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/serializers.py", line 419, in run_validation
+    value = self.to_internal_value(data)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/serializers.py", line 472, in to_internal_value
+    for field in fields:
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/serializers.py", line 355, in _writable_fields
+    for field in self.fields.values():
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/utils/functional.py", line 48, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/serializers.py", line 349, in fields
+    for key, value in self.get_fields().items():
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/serializers.py", line 1053, in get_fields
+    field_class, field_kwargs = self.build_field(
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/serializers.py", line 1199, in build_field
+    return self.build_unknown_field(field_name, model_class)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/serializers.py", line 1317, in build_unknown_field
+    raise ImproperlyConfigured(
+django.core.exceptions.ImproperlyConfigured: Field name `autho_id` is not valid for model `Post`.
+2024-02-18 12:39:39,310 (INFO)- django.utils.autoreload- /home/satriagitu/code/python-project/web_app_python_api/blogs/serializers.py changed, reloading.
+2024-02-18 12:39:39,541 (INFO)- django.utils.autoreload- Watching for file changes with StatReloader
+2024-02-18 12:39:41,722 (ERROR)- django.request- Internal Server Error: /api/v1/blog/post
+Traceback (most recent call last):
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/backends/utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+psycopg2.errors.NotNullViolation: null value in column "author_id" of relation "blogs_post" violates not-null constraint
+DETAIL:  Failing row contains (26, Post 11, Isi aja 11, 2024-02-18 12:39:41.698246+00, 2024-02-18 12:39:41.698264+00, null).
+
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/views/generic/base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/generics.py", line 190, in post
+    return self.create(request, *args, **kwargs)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/mixins.py", line 19, in create
+    self.perform_create(serializer)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/mixins.py", line 24, in perform_create
+    serializer.save()
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/serializers.py", line 205, in save
+    self.instance = self.create(validated_data)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/serializers.py", line 939, in create
+    instance = ModelClass._default_manager.create(**validated_data)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/models/manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/models/query.py", line 447, in create
+    obj.save(force_insert=True, using=self.db)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/models/base.py", line 753, in save
+    self.save_base(using=using, force_insert=force_insert,
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/models/base.py", line 790, in save_base
+    updated = self._save_table(
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/models/base.py", line 895, in _save_table
+    results = self._do_insert(cls._base_manager, using, fields, returning_fields, raw)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/models/base.py", line 933, in _do_insert
+    return manager._insert(
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/models/manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/models/query.py", line 1254, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/models/sql/compiler.py", line 1397, in execute_sql
+    cursor.execute(sql, params)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/backends/utils.py", line 98, in execute
+    return super().execute(sql, params)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/backends/utils.py", line 66, in execute
+    return self._execute_with_wrappers(sql, params, many=False, executor=self._execute)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/backends/utils.py", line 75, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/backends/utils.py", line 79, in _execute
+    with self.db.wrap_database_errors:
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/utils.py", line 90, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/backends/utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+django.db.utils.IntegrityError: null value in column "author_id" of relation "blogs_post" violates not-null constraint
+DETAIL:  Failing row contains (26, Post 11, Isi aja 11, 2024-02-18 12:39:41.698246+00, 2024-02-18 12:39:41.698264+00, null).
+
+2024-02-18 12:39:50,901 (ERROR)- django.request- Internal Server Error: /api/v1/blog/post
+Traceback (most recent call last):
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/backends/utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+psycopg2.errors.NotNullViolation: null value in column "author_id" of relation "blogs_post" violates not-null constraint
+DETAIL:  Failing row contains (27, Post 11, Isi aja 11, 2024-02-18 12:39:50.878769+00, 2024-02-18 12:39:50.87878+00, null).
+
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/views/generic/base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/generics.py", line 190, in post
+    return self.create(request, *args, **kwargs)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/mixins.py", line 19, in create
+    self.perform_create(serializer)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/mixins.py", line 24, in perform_create
+    serializer.save()
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/serializers.py", line 205, in save
+    self.instance = self.create(validated_data)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/serializers.py", line 939, in create
+    instance = ModelClass._default_manager.create(**validated_data)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/models/manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/models/query.py", line 447, in create
+    obj.save(force_insert=True, using=self.db)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/models/base.py", line 753, in save
+    self.save_base(using=using, force_insert=force_insert,
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/models/base.py", line 790, in save_base
+    updated = self._save_table(
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/models/base.py", line 895, in _save_table
+    results = self._do_insert(cls._base_manager, using, fields, returning_fields, raw)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/models/base.py", line 933, in _do_insert
+    return manager._insert(
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/models/manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/models/query.py", line 1254, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/models/sql/compiler.py", line 1397, in execute_sql
+    cursor.execute(sql, params)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/backends/utils.py", line 98, in execute
+    return super().execute(sql, params)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/backends/utils.py", line 66, in execute
+    return self._execute_with_wrappers(sql, params, many=False, executor=self._execute)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/backends/utils.py", line 75, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/backends/utils.py", line 79, in _execute
+    with self.db.wrap_database_errors:
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/utils.py", line 90, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/backends/utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+django.db.utils.IntegrityError: null value in column "author_id" of relation "blogs_post" violates not-null constraint
+DETAIL:  Failing row contains (27, Post 11, Isi aja 11, 2024-02-18 12:39:50.878769+00, 2024-02-18 12:39:50.87878+00, null).
+
+2024-02-18 12:43:24,287 (INFO)- django.utils.autoreload- /home/satriagitu/code/python-project/web_app_python_api/blogs/serializers.py changed, reloading.
+2024-02-18 12:43:24,558 (INFO)- django.utils.autoreload- Watching for file changes with StatReloader
+2024-02-18 12:44:03,071 (ERROR)- django.request- Internal Server Error: /api/v1/blog/post
+Traceback (most recent call last):
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/backends/utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+psycopg2.errors.NotNullViolation: null value in column "author_id" of relation "blogs_post" violates not-null constraint
+DETAIL:  Failing row contains (28, Post 11, Isi aja 11, 2024-02-18 12:44:03.043306+00, 2024-02-18 12:44:03.04332+00, null).
+
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/views/generic/base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/generics.py", line 190, in post
+    return self.create(request, *args, **kwargs)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/mixins.py", line 19, in create
+    self.perform_create(serializer)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/mixins.py", line 24, in perform_create
+    serializer.save()
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/serializers.py", line 205, in save
+    self.instance = self.create(validated_data)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/serializers.py", line 939, in create
+    instance = ModelClass._default_manager.create(**validated_data)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/models/manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/models/query.py", line 447, in create
+    obj.save(force_insert=True, using=self.db)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/models/base.py", line 753, in save
+    self.save_base(using=using, force_insert=force_insert,
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/models/base.py", line 790, in save_base
+    updated = self._save_table(
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/models/base.py", line 895, in _save_table
+    results = self._do_insert(cls._base_manager, using, fields, returning_fields, raw)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/models/base.py", line 933, in _do_insert
+    return manager._insert(
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/models/manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/models/query.py", line 1254, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/models/sql/compiler.py", line 1397, in execute_sql
+    cursor.execute(sql, params)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/backends/utils.py", line 98, in execute
+    return super().execute(sql, params)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/backends/utils.py", line 66, in execute
+    return self._execute_with_wrappers(sql, params, many=False, executor=self._execute)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/backends/utils.py", line 75, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/backends/utils.py", line 79, in _execute
+    with self.db.wrap_database_errors:
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/utils.py", line 90, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/backends/utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+django.db.utils.IntegrityError: null value in column "author_id" of relation "blogs_post" violates not-null constraint
+DETAIL:  Failing row contains (28, Post 11, Isi aja 11, 2024-02-18 12:44:03.043306+00, 2024-02-18 12:44:03.04332+00, null).
+
+2024-02-18 12:44:45,330 (INFO)- django.utils.autoreload- /home/satriagitu/code/python-project/web_app_python_api/blogs/serializers.py changed, reloading.
+2024-02-18 12:44:45,572 (INFO)- django.utils.autoreload- Watching for file changes with StatReloader
+2024-02-18 12:44:48,592 (ERROR)- django.request- Internal Server Error: /api/v1/blog/post
+Traceback (most recent call last):
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/backends/utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+psycopg2.errors.NotNullViolation: null value in column "author_id" of relation "blogs_post" violates not-null constraint
+DETAIL:  Failing row contains (29, Post 11, Isi aja 11, 2024-02-18 12:44:48.563183+00, 2024-02-18 12:44:48.563196+00, null).
+
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/views/generic/base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/generics.py", line 190, in post
+    return self.create(request, *args, **kwargs)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/mixins.py", line 19, in create
+    self.perform_create(serializer)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/mixins.py", line 24, in perform_create
+    serializer.save()
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/serializers.py", line 205, in save
+    self.instance = self.create(validated_data)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/serializers.py", line 939, in create
+    instance = ModelClass._default_manager.create(**validated_data)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/models/manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/models/query.py", line 447, in create
+    obj.save(force_insert=True, using=self.db)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/models/base.py", line 753, in save
+    self.save_base(using=using, force_insert=force_insert,
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/models/base.py", line 790, in save_base
+    updated = self._save_table(
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/models/base.py", line 895, in _save_table
+    results = self._do_insert(cls._base_manager, using, fields, returning_fields, raw)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/models/base.py", line 933, in _do_insert
+    return manager._insert(
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/models/manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/models/query.py", line 1254, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/models/sql/compiler.py", line 1397, in execute_sql
+    cursor.execute(sql, params)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/backends/utils.py", line 98, in execute
+    return super().execute(sql, params)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/backends/utils.py", line 66, in execute
+    return self._execute_with_wrappers(sql, params, many=False, executor=self._execute)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/backends/utils.py", line 75, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/backends/utils.py", line 79, in _execute
+    with self.db.wrap_database_errors:
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/utils.py", line 90, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/backends/utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+django.db.utils.IntegrityError: null value in column "author_id" of relation "blogs_post" violates not-null constraint
+DETAIL:  Failing row contains (29, Post 11, Isi aja 11, 2024-02-18 12:44:48.563183+00, 2024-02-18 12:44:48.563196+00, null).
+
+2024-02-18 12:45:03,342 (ERROR)- django.request- Internal Server Error: /api/v1/blog/post
+Traceback (most recent call last):
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/backends/utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+psycopg2.errors.NotNullViolation: null value in column "author_id" of relation "blogs_post" violates not-null constraint
+DETAIL:  Failing row contains (30, Post 11, Isi aja 11, 2024-02-18 12:45:03.320398+00, 2024-02-18 12:45:03.320409+00, null).
+
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/views/generic/base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/generics.py", line 190, in post
+    return self.create(request, *args, **kwargs)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/mixins.py", line 19, in create
+    self.perform_create(serializer)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/mixins.py", line 24, in perform_create
+    serializer.save()
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/serializers.py", line 205, in save
+    self.instance = self.create(validated_data)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/serializers.py", line 939, in create
+    instance = ModelClass._default_manager.create(**validated_data)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/models/manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/models/query.py", line 447, in create
+    obj.save(force_insert=True, using=self.db)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/models/base.py", line 753, in save
+    self.save_base(using=using, force_insert=force_insert,
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/models/base.py", line 790, in save_base
+    updated = self._save_table(
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/models/base.py", line 895, in _save_table
+    results = self._do_insert(cls._base_manager, using, fields, returning_fields, raw)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/models/base.py", line 933, in _do_insert
+    return manager._insert(
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/models/manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/models/query.py", line 1254, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/models/sql/compiler.py", line 1397, in execute_sql
+    cursor.execute(sql, params)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/backends/utils.py", line 98, in execute
+    return super().execute(sql, params)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/backends/utils.py", line 66, in execute
+    return self._execute_with_wrappers(sql, params, many=False, executor=self._execute)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/backends/utils.py", line 75, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/backends/utils.py", line 79, in _execute
+    with self.db.wrap_database_errors:
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/utils.py", line 90, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/backends/utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+django.db.utils.IntegrityError: null value in column "author_id" of relation "blogs_post" violates not-null constraint
+DETAIL:  Failing row contains (30, Post 11, Isi aja 11, 2024-02-18 12:45:03.320398+00, 2024-02-18 12:45:03.320409+00, null).
+
+2024-02-18 12:45:42,207 (INFO)- django.utils.autoreload- /home/satriagitu/code/python-project/web_app_python_api/blogs/serializers.py changed, reloading.
+2024-02-18 12:45:42,436 (INFO)- django.utils.autoreload- Watching for file changes with StatReloader
+2024-02-18 12:45:50,649 (INFO)- django.utils.autoreload- /home/satriagitu/code/python-project/web_app_python_api/blogs/models.py changed, reloading.
+2024-02-18 12:45:50,857 (INFO)- django.utils.autoreload- Watching for file changes with StatReloader
+2024-02-18 12:45:54,032 (INFO)- django.utils.autoreload- /home/satriagitu/code/python-project/web_app_python_api/blogs/serializers.py changed, reloading.
+2024-02-18 12:45:54,253 (INFO)- django.utils.autoreload- Watching for file changes with StatReloader
+2024-02-18 12:45:59,259 (ERROR)- django.request- Internal Server Error: /api/v1/blog/post
+Traceback (most recent call last):
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/backends/utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+psycopg2.errors.NotNullViolation: null value in column "author_id" of relation "blogs_post" violates not-null constraint
+DETAIL:  Failing row contains (31, Post 11, Isi aja 11, 2024-02-18 12:45:59.231576+00, 2024-02-18 12:45:59.231589+00, null).
+
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/views/generic/base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/generics.py", line 190, in post
+    return self.create(request, *args, **kwargs)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/mixins.py", line 19, in create
+    self.perform_create(serializer)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/mixins.py", line 24, in perform_create
+    serializer.save()
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/serializers.py", line 205, in save
+    self.instance = self.create(validated_data)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/serializers.py", line 939, in create
+    instance = ModelClass._default_manager.create(**validated_data)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/models/manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/models/query.py", line 447, in create
+    obj.save(force_insert=True, using=self.db)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/models/base.py", line 753, in save
+    self.save_base(using=using, force_insert=force_insert,
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/models/base.py", line 790, in save_base
+    updated = self._save_table(
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/models/base.py", line 895, in _save_table
+    results = self._do_insert(cls._base_manager, using, fields, returning_fields, raw)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/models/base.py", line 933, in _do_insert
+    return manager._insert(
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/models/manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/models/query.py", line 1254, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/models/sql/compiler.py", line 1397, in execute_sql
+    cursor.execute(sql, params)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/backends/utils.py", line 98, in execute
+    return super().execute(sql, params)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/backends/utils.py", line 66, in execute
+    return self._execute_with_wrappers(sql, params, many=False, executor=self._execute)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/backends/utils.py", line 75, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/backends/utils.py", line 79, in _execute
+    with self.db.wrap_database_errors:
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/utils.py", line 90, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/backends/utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+django.db.utils.IntegrityError: null value in column "author_id" of relation "blogs_post" violates not-null constraint
+DETAIL:  Failing row contains (31, Post 11, Isi aja 11, 2024-02-18 12:45:59.231576+00, 2024-02-18 12:45:59.231589+00, null).
+
+2024-02-18 12:46:12,556 (INFO)- django.utils.autoreload- /home/satriagitu/code/python-project/web_app_python_api/blogs/serializers.py changed, reloading.
+2024-02-18 12:46:12,768 (INFO)- django.utils.autoreload- Watching for file changes with StatReloader
+2024-02-18 12:46:14,381 (WARNING)- django.request- Bad Request: /api/v1/blog/post
+2024-02-18 12:46:19,989 (INFO)- django.utils.autoreload- /home/satriagitu/code/python-project/web_app_python_api/blogs/serializers.py changed, reloading.
+2024-02-18 12:46:20,199 (INFO)- django.utils.autoreload- Watching for file changes with StatReloader
+2024-02-18 12:46:22,435 (WARNING)- django.request- Unauthorized: /api/v1/blog/post
+2024-02-18 12:46:27,922 (ERROR)- django.request- Internal Server Error: /api/v1/blog/post
+Traceback (most recent call last):
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/backends/utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+psycopg2.errors.NotNullViolation: null value in column "author_id" of relation "blogs_post" violates not-null constraint
+DETAIL:  Failing row contains (32, Post 11, Isi aja 11, 2024-02-18 12:46:27.894556+00, 2024-02-18 12:46:27.894573+00, null).
+
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/views/generic/base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/generics.py", line 190, in post
+    return self.create(request, *args, **kwargs)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/mixins.py", line 19, in create
+    self.perform_create(serializer)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/mixins.py", line 24, in perform_create
+    serializer.save()
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/serializers.py", line 205, in save
+    self.instance = self.create(validated_data)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/serializers.py", line 939, in create
+    instance = ModelClass._default_manager.create(**validated_data)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/models/manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/models/query.py", line 447, in create
+    obj.save(force_insert=True, using=self.db)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/models/base.py", line 753, in save
+    self.save_base(using=using, force_insert=force_insert,
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/models/base.py", line 790, in save_base
+    updated = self._save_table(
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/models/base.py", line 895, in _save_table
+    results = self._do_insert(cls._base_manager, using, fields, returning_fields, raw)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/models/base.py", line 933, in _do_insert
+    return manager._insert(
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/models/manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/models/query.py", line 1254, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/models/sql/compiler.py", line 1397, in execute_sql
+    cursor.execute(sql, params)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/backends/utils.py", line 98, in execute
+    return super().execute(sql, params)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/backends/utils.py", line 66, in execute
+    return self._execute_with_wrappers(sql, params, many=False, executor=self._execute)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/backends/utils.py", line 75, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/backends/utils.py", line 79, in _execute
+    with self.db.wrap_database_errors:
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/utils.py", line 90, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/backends/utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+django.db.utils.IntegrityError: null value in column "author_id" of relation "blogs_post" violates not-null constraint
+DETAIL:  Failing row contains (32, Post 11, Isi aja 11, 2024-02-18 12:46:27.894556+00, 2024-02-18 12:46:27.894573+00, null).
+
+2024-02-18 12:46:33,475 (INFO)- django.utils.autoreload- /home/satriagitu/code/python-project/web_app_python_api/blogs/serializers.py changed, reloading.
+2024-02-18 12:46:33,690 (INFO)- django.utils.autoreload- Watching for file changes with StatReloader
+2024-02-18 12:46:56,022 (INFO)- django.utils.autoreload- /home/satriagitu/code/python-project/web_app_python_api/blogs/serializers.py changed, reloading.
+2024-02-18 12:46:56,248 (INFO)- django.utils.autoreload- Watching for file changes with StatReloader
+2024-02-18 12:47:04,735 (WARNING)- django.request- Unauthorized: /api/v1/blog/post
+2024-02-18 12:47:10,649 (ERROR)- django.request- Internal Server Error: /api/v1/blog/post
+Traceback (most recent call last):
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/backends/utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+psycopg2.errors.NotNullViolation: null value in column "author_id" of relation "blogs_post" violates not-null constraint
+DETAIL:  Failing row contains (34, Post 12, Isi aja 12, 2024-02-18 12:47:10.621753+00, 2024-02-18 12:47:10.621767+00, null).
+
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/views/generic/base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/generics.py", line 190, in post
+    return self.create(request, *args, **kwargs)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/mixins.py", line 19, in create
+    self.perform_create(serializer)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/mixins.py", line 24, in perform_create
+    serializer.save()
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/serializers.py", line 205, in save
+    self.instance = self.create(validated_data)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/serializers.py", line 939, in create
+    instance = ModelClass._default_manager.create(**validated_data)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/models/manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/models/query.py", line 447, in create
+    obj.save(force_insert=True, using=self.db)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/models/base.py", line 753, in save
+    self.save_base(using=using, force_insert=force_insert,
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/models/base.py", line 790, in save_base
+    updated = self._save_table(
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/models/base.py", line 895, in _save_table
+    results = self._do_insert(cls._base_manager, using, fields, returning_fields, raw)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/models/base.py", line 933, in _do_insert
+    return manager._insert(
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/models/manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/models/query.py", line 1254, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/models/sql/compiler.py", line 1397, in execute_sql
+    cursor.execute(sql, params)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/backends/utils.py", line 98, in execute
+    return super().execute(sql, params)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/backends/utils.py", line 66, in execute
+    return self._execute_with_wrappers(sql, params, many=False, executor=self._execute)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/backends/utils.py", line 75, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/backends/utils.py", line 79, in _execute
+    with self.db.wrap_database_errors:
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/utils.py", line 90, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/backends/utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+django.db.utils.IntegrityError: null value in column "author_id" of relation "blogs_post" violates not-null constraint
+DETAIL:  Failing row contains (34, Post 12, Isi aja 12, 2024-02-18 12:47:10.621753+00, 2024-02-18 12:47:10.621767+00, null).
+
+2024-02-18 12:58:32,905 (INFO)- django.utils.autoreload- /home/satriagitu/code/python-project/web_app_python_api/blogs/serializers.py changed, reloading.
+2024-02-18 12:58:33,138 (INFO)- django.utils.autoreload- Watching for file changes with StatReloader
+2024-02-18 12:59:51,817 (WARNING)- django.request- Unauthorized: /api/v1/blog/post
+2024-02-18 13:00:34,955 (WARNING)- django.request- Not Found: /api/v1/blog/post/1
+2024-02-18 13:01:17,307 (WARNING)- django.request- Not Found: /api/v1/blog/post/1/
+2024-02-18 13:01:34,756 (INFO)- django.utils.autoreload- /home/satriagitu/code/python-project/web_app_python_api/web_app_python_api/urls.py changed, reloading.
+2024-02-18 13:01:34,970 (INFO)- django.utils.autoreload- Watching for file changes with StatReloader
+2024-02-18 13:01:39,297 (WARNING)- django.request- Not Found: /api/v1/blog/post/1/
+2024-02-18 13:04:42,531 (WARNING)- django.request- Not Found: /api/v1/blog/post/1/
+2024-02-18 13:05:35,930 (INFO)- django.utils.autoreload- /home/satriagitu/code/python-project/web_app_python_api/blogs/urls.py changed, reloading.
+2024-02-18 13:05:36,173 (INFO)- django.utils.autoreload- Watching for file changes with StatReloader
+2024-02-18 13:05:48,532 (WARNING)- django.request- Unauthorized: /api/v1/blog/post/1/
+2024-02-18 13:05:55,499 (WARNING)- django.request- Not Found: /api/v1/blog/post/1/
+2024-02-18 13:09:39,468 (WARNING)- django.request- Not Found: /api/v1/blog/post//
+2024-02-18 13:09:57,811 (WARNING)- django.request- Unauthorized: /api/v1/blog/post/1/
+2024-02-18 13:10:20,600 (WARNING)- django.request- Unauthorized: /api/v1/blog/post/1/
+2024-02-18 13:10:28,348 (WARNING)- django.request- Not Found: /api/v1/blog/post/1/
+2024-02-18 13:10:43,072 (WARNING)- django.request- Not Found: /api/v1/blog/post//7
+2024-02-18 13:10:45,636 (WARNING)- django.request- Unauthorized: /api/v1/blog/post/7/
+2024-02-18 13:11:44,431 (INFO)- django.utils.autoreload- /home/satriagitu/code/python-project/web_app_python_api/blogs/urls.py changed, reloading.
+2024-02-18 13:11:44,679 (INFO)- django.utils.autoreload- Watching for file changes with StatReloader
+2024-02-18 13:11:46,830 (INFO)- django.utils.autoreload- /home/satriagitu/code/python-project/web_app_python_api/blogs/urls.py changed, reloading.
+2024-02-18 13:11:47,065 (INFO)- django.utils.autoreload- Watching for file changes with StatReloader
+2024-02-18 13:11:54,109 (WARNING)- django.request- Unauthorized: /api/v1/blog/post/list/
+2024-02-18 13:16:08,648 (INFO)- django.utils.autoreload- /home/satriagitu/code/python-project/web_app_python_api/blogs/serializers.py changed, reloading.
+2024-02-18 13:16:08,892 (INFO)- django.utils.autoreload- Watching for file changes with StatReloader
+2024-02-18 13:16:15,051 (INFO)- django.utils.autoreload- /home/satriagitu/code/python-project/web_app_python_api/blogs/serializers.py changed, reloading.
+2024-02-18 13:16:15,257 (INFO)- django.utils.autoreload- Watching for file changes with StatReloader
+2024-02-18 13:16:37,011 (WARNING)- django.request- Unauthorized: /api/v1/blog/post/7/
+2024-02-19 01:14:59,092 (INFO)- django.utils.autoreload- /home/satriagitu/code/python-project/web_app_python_api/blogs/serializers.py changed, reloading.
+2024-02-19 01:14:59,422 (INFO)- django.utils.autoreload- Watching for file changes with StatReloader
+2024-02-19 01:15:06,750 (INFO)- django.utils.autoreload- /home/satriagitu/code/python-project/web_app_python_api/blogs/serializers.py changed, reloading.
+2024-02-19 01:15:07,093 (INFO)- django.utils.autoreload- Watching for file changes with StatReloader
+2024-02-19 01:15:30,139 (ERROR)- django.request- Internal Server Error: /api/v1/blog/post
+Traceback (most recent call last):
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/utils/deprecation.py", line 113, in __call__
+    response = self.process_request(request)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/middleware/common.py", line 54, in process_request
+    path = self.get_full_path_with_slash(request)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/middleware/common.py", line 87, in get_full_path_with_slash
+    raise RuntimeError(
+RuntimeError: You called this URL via POST, but the URL doesn't end in a slash and you have APPEND_SLASH set. Django can't redirect to the slash URL while maintaining POST data. Change your form to point to localhost:8000/api/v1/blog/post/ (note the trailing slash), or set APPEND_SLASH=False in your Django settings.
+2024-02-19 01:15:47,753 (ERROR)- django.request- Internal Server Error: /api/v1/blog/post/
+Traceback (most recent call last):
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/backends/utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+psycopg2.errors.NotNullViolation: null value in column "author_id" of relation "blogs_post" violates not-null constraint
+DETAIL:  Failing row contains (36, Post 13, Isi aja 13, 2024-02-19 01:15:47.723281+00, 2024-02-19 01:15:47.723319+00, null).
+
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/views/generic/base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/generics.py", line 190, in post
+    return self.create(request, *args, **kwargs)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/mixins.py", line 19, in create
+    self.perform_create(serializer)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/mixins.py", line 24, in perform_create
+    serializer.save()
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/serializers.py", line 205, in save
+    self.instance = self.create(validated_data)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/serializers.py", line 939, in create
+    instance = ModelClass._default_manager.create(**validated_data)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/models/manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/models/query.py", line 447, in create
+    obj.save(force_insert=True, using=self.db)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/models/base.py", line 753, in save
+    self.save_base(using=using, force_insert=force_insert,
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/models/base.py", line 790, in save_base
+    updated = self._save_table(
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/models/base.py", line 895, in _save_table
+    results = self._do_insert(cls._base_manager, using, fields, returning_fields, raw)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/models/base.py", line 933, in _do_insert
+    return manager._insert(
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/models/manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/models/query.py", line 1254, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/models/sql/compiler.py", line 1397, in execute_sql
+    cursor.execute(sql, params)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/backends/utils.py", line 98, in execute
+    return super().execute(sql, params)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/backends/utils.py", line 66, in execute
+    return self._execute_with_wrappers(sql, params, many=False, executor=self._execute)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/backends/utils.py", line 75, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/backends/utils.py", line 79, in _execute
+    with self.db.wrap_database_errors:
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/utils.py", line 90, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/backends/utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+django.db.utils.IntegrityError: null value in column "author_id" of relation "blogs_post" violates not-null constraint
+DETAIL:  Failing row contains (36, Post 13, Isi aja 13, 2024-02-19 01:15:47.723281+00, 2024-02-19 01:15:47.723319+00, null).
+
+2024-02-19 01:16:07,949 (INFO)- django.utils.autoreload- /home/satriagitu/code/python-project/web_app_python_api/blogs/serializers.py changed, reloading.
+2024-02-19 01:16:08,284 (INFO)- django.utils.autoreload- Watching for file changes with StatReloader
+2024-02-19 01:17:35,370 (INFO)- django.utils.autoreload- /home/satriagitu/code/python-project/web_app_python_api/blogs/serializers.py changed, reloading.
+2024-02-19 01:17:35,677 (INFO)- django.utils.autoreload- Watching for file changes with StatReloader
+2024-02-19 01:18:00,115 (INFO)- django.utils.autoreload- /home/satriagitu/code/python-project/web_app_python_api/blogs/serializers.py changed, reloading.
+2024-02-19 01:18:00,417 (INFO)- django.utils.autoreload- Watching for file changes with StatReloader
+2024-02-19 01:18:06,716 (INFO)- django.utils.autoreload- /home/satriagitu/code/python-project/web_app_python_api/blogs/serializers.py changed, reloading.
+2024-02-19 01:18:07,042 (INFO)- django.utils.autoreload- Watching for file changes with StatReloader
+2024-02-19 01:18:18,150 (WARNING)- django.request- Unauthorized: /api/v1/blog/post/list/
+2024-02-19 01:18:24,470 (ERROR)- django.request- Internal Server Error: /api/v1/blog/post/list/
+Traceback (most recent call last):
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/views/generic/base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/generics.py", line 199, in get
+    return self.list(request, *args, **kwargs)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/mixins.py", line 46, in list
+    return Response(serializer.data)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/serializers.py", line 745, in data
+    ret = super().data
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/serializers.py", line 246, in data
+    self._data = self.to_representation(self.instance)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/serializers.py", line 663, in to_representation
+    return [
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/serializers.py", line 664, in <listcomp>
+    self.child.to_representation(item) for item in iterable
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/serializers.py", line 502, in to_representation
+    attribute = field.get_attribute(instance)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/relations.py", line 536, in get_attribute
+    relationship = get_attribute(instance, self.source_attrs)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/fields.py", line 97, in get_attribute
+    instance = getattr(instance, attr)
+AttributeError: 'Post' object has no attribute 'detail_categories'
+2024-02-19 01:18:39,683 (INFO)- django.utils.autoreload- /home/satriagitu/code/python-project/web_app_python_api/blogs/serializers.py changed, reloading.
+2024-02-19 01:18:39,996 (INFO)- django.utils.autoreload- Watching for file changes with StatReloader
+2024-02-19 01:19:20,624 (INFO)- django.utils.autoreload- /home/satriagitu/code/python-project/web_app_python_api/blogs/serializers.py changed, reloading.
+2024-02-19 01:19:20,913 (INFO)- django.utils.autoreload- Watching for file changes with StatReloader
+2024-02-19 01:19:55,493 (INFO)- django.utils.autoreload- /home/satriagitu/code/python-project/web_app_python_api/blogs/serializers.py changed, reloading.
+2024-02-19 01:19:55,784 (INFO)- django.utils.autoreload- Watching for file changes with StatReloader
+2024-02-19 01:19:58,253 (WARNING)- django.request- Unauthorized: /api/v1/blog/post/list/
+2024-02-19 01:20:04,092 (ERROR)- django.request- Internal Server Error: /api/v1/blog/post/list/
+Traceback (most recent call last):
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/views/generic/base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/generics.py", line 199, in get
+    return self.list(request, *args, **kwargs)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/mixins.py", line 46, in list
+    return Response(serializer.data)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/serializers.py", line 745, in data
+    ret = super().data
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/serializers.py", line 246, in data
+    self._data = self.to_representation(self.instance)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/serializers.py", line 663, in to_representation
+    return [
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/serializers.py", line 664, in <listcomp>
+    self.child.to_representation(item) for item in iterable
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/serializers.py", line 502, in to_representation
+    attribute = field.get_attribute(instance)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/relations.py", line 536, in get_attribute
+    relationship = get_attribute(instance, self.source_attrs)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/fields.py", line 97, in get_attribute
+    instance = getattr(instance, attr)
+AttributeError: 'Post' object has no attribute 'detail_categories'
+2024-02-19 01:20:37,451 (INFO)- django.utils.autoreload- /home/satriagitu/code/python-project/web_app_python_api/blogs/serializers.py changed, reloading.
+2024-02-19 01:20:37,750 (INFO)- django.utils.autoreload- Watching for file changes with StatReloader
+2024-02-19 01:21:08,271 (INFO)- django.utils.autoreload- /home/satriagitu/code/python-project/web_app_python_api/blogs/serializers.py changed, reloading.
+2024-02-19 01:21:08,700 (INFO)- django.utils.autoreload- Watching for file changes with StatReloader
+2024-02-19 01:21:13,102 (ERROR)- django.request- Internal Server Error: /api/v1/blog/post/list/
+Traceback (most recent call last):
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/views/generic/base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/generics.py", line 199, in get
+    return self.list(request, *args, **kwargs)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/mixins.py", line 46, in list
+    return Response(serializer.data)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/serializers.py", line 745, in data
+    ret = super().data
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/serializers.py", line 246, in data
+    self._data = self.to_representation(self.instance)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/serializers.py", line 663, in to_representation
+    return [
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/serializers.py", line 664, in <listcomp>
+    self.child.to_representation(item) for item in iterable
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/serializers.py", line 500, in to_representation
+    for field in fields:
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/serializers.py", line 361, in _readable_fields
+    for field in self.fields.values():
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/utils/functional.py", line 48, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/serializers.py", line 349, in fields
+    for key, value in self.get_fields().items():
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/serializers.py", line 1029, in get_fields
+    field_names = self.get_field_names(declared_fields, info)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/serializers.py", line 1125, in get_field_names
+    assert field_name in fields, (
+AssertionError: The field 'detail_categories' was declared on serializer PostSerializer, but has not been included in the 'fields' option.
+2024-02-19 01:22:01,679 (INFO)- django.utils.autoreload- /home/satriagitu/code/python-project/web_app_python_api/blogs/serializers.py changed, reloading.
+2024-02-19 01:22:02,051 (INFO)- django.utils.autoreload- Watching for file changes with StatReloader
+2024-02-19 01:22:06,309 (INFO)- django.utils.autoreload- /home/satriagitu/code/python-project/web_app_python_api/blogs/serializers.py changed, reloading.
+2024-02-19 01:22:06,625 (INFO)- django.utils.autoreload- Watching for file changes with StatReloader
+2024-02-19 01:22:08,940 (INFO)- django.utils.autoreload- /home/satriagitu/code/python-project/web_app_python_api/blogs/serializers.py changed, reloading.
+2024-02-19 01:22:09,318 (INFO)- django.utils.autoreload- Watching for file changes with StatReloader
+2024-02-19 01:25:03,610 (WARNING)- django.request- Unauthorized: /api/v1/blog/post/list/
+2024-02-19 01:26:14,779 (INFO)- django.utils.autoreload- /home/satriagitu/code/python-project/web_app_python_api/blogs/serializers.py changed, reloading.
+2024-02-19 01:26:15,074 (INFO)- django.utils.autoreload- Watching for file changes with StatReloader
+2024-02-19 01:26:20,463 (WARNING)- django.request- Unauthorized: /api/v1/blog/post/list/
+2024-02-19 01:30:35,844 (INFO)- django.utils.autoreload- /home/satriagitu/code/python-project/web_app_python_api/blogs/serializers.py changed, reloading.
+2024-02-19 01:30:36,244 (INFO)- django.utils.autoreload- Watching for file changes with StatReloader
+2024-02-19 01:30:42,328 (WARNING)- django.request- Unauthorized: /api/v1/blog/post/list/
+2024-02-19 01:33:07,755 (WARNING)- django.request- Unauthorized: /api/v1/blog/post/
+2024-02-19 01:33:17,001 (ERROR)- django.request- Internal Server Error: /api/v1/blog/post/
+Traceback (most recent call last):
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/backends/utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+psycopg2.errors.NotNullViolation: null value in column "author_id" of relation "blogs_post" violates not-null constraint
+DETAIL:  Failing row contains (38, Post 14, Isi aja 14, 2024-02-19 01:33:16.962554+00, 2024-02-19 01:33:16.962572+00, null).
+
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/views/generic/base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/generics.py", line 190, in post
+    return self.create(request, *args, **kwargs)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/mixins.py", line 19, in create
+    self.perform_create(serializer)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/mixins.py", line 24, in perform_create
+    serializer.save()
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/serializers.py", line 205, in save
+    self.instance = self.create(validated_data)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/serializers.py", line 939, in create
+    instance = ModelClass._default_manager.create(**validated_data)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/models/manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/models/query.py", line 447, in create
+    obj.save(force_insert=True, using=self.db)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/models/base.py", line 753, in save
+    self.save_base(using=using, force_insert=force_insert,
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/models/base.py", line 790, in save_base
+    updated = self._save_table(
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/models/base.py", line 895, in _save_table
+    results = self._do_insert(cls._base_manager, using, fields, returning_fields, raw)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/models/base.py", line 933, in _do_insert
+    return manager._insert(
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/models/manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/models/query.py", line 1254, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/models/sql/compiler.py", line 1397, in execute_sql
+    cursor.execute(sql, params)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/backends/utils.py", line 98, in execute
+    return super().execute(sql, params)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/backends/utils.py", line 66, in execute
+    return self._execute_with_wrappers(sql, params, many=False, executor=self._execute)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/backends/utils.py", line 75, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/backends/utils.py", line 79, in _execute
+    with self.db.wrap_database_errors:
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/utils.py", line 90, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/backends/utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+django.db.utils.IntegrityError: null value in column "author_id" of relation "blogs_post" violates not-null constraint
+DETAIL:  Failing row contains (38, Post 14, Isi aja 14, 2024-02-19 01:33:16.962554+00, 2024-02-19 01:33:16.962572+00, null).
+
+2024-02-19 01:33:53,345 (INFO)- django.utils.autoreload- /home/satriagitu/code/python-project/web_app_python_api/blogs/serializers.py changed, reloading.
+2024-02-19 01:33:53,702 (INFO)- django.utils.autoreload- Watching for file changes with StatReloader
+2024-02-19 01:33:59,611 (ERROR)- django.request- Internal Server Error: /api/v1/blog/post/
+Traceback (most recent call last):
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/backends/utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+psycopg2.errors.NotNullViolation: null value in column "author_id" of relation "blogs_post" violates not-null constraint
+DETAIL:  Failing row contains (39, Post 14, Isi aja 14, 2024-02-19 01:33:59.570358+00, 2024-02-19 01:33:59.570376+00, null).
+
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/views/generic/base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/generics.py", line 190, in post
+    return self.create(request, *args, **kwargs)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/mixins.py", line 19, in create
+    self.perform_create(serializer)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/mixins.py", line 24, in perform_create
+    serializer.save()
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/serializers.py", line 205, in save
+    self.instance = self.create(validated_data)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/serializers.py", line 939, in create
+    instance = ModelClass._default_manager.create(**validated_data)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/models/manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/models/query.py", line 447, in create
+    obj.save(force_insert=True, using=self.db)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/models/base.py", line 753, in save
+    self.save_base(using=using, force_insert=force_insert,
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/models/base.py", line 790, in save_base
+    updated = self._save_table(
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/models/base.py", line 895, in _save_table
+    results = self._do_insert(cls._base_manager, using, fields, returning_fields, raw)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/models/base.py", line 933, in _do_insert
+    return manager._insert(
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/models/manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/models/query.py", line 1254, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/models/sql/compiler.py", line 1397, in execute_sql
+    cursor.execute(sql, params)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/backends/utils.py", line 98, in execute
+    return super().execute(sql, params)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/backends/utils.py", line 66, in execute
+    return self._execute_with_wrappers(sql, params, many=False, executor=self._execute)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/backends/utils.py", line 75, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/backends/utils.py", line 79, in _execute
+    with self.db.wrap_database_errors:
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/utils.py", line 90, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/backends/utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+django.db.utils.IntegrityError: null value in column "author_id" of relation "blogs_post" violates not-null constraint
+DETAIL:  Failing row contains (39, Post 14, Isi aja 14, 2024-02-19 01:33:59.570358+00, 2024-02-19 01:33:59.570376+00, null).
+
+2024-02-19 01:34:29,314 (INFO)- django.utils.autoreload- /home/satriagitu/code/python-project/web_app_python_api/blogs/serializers.py changed, reloading.
+2024-02-19 01:34:29,708 (INFO)- django.utils.autoreload- Watching for file changes with StatReloader
+2024-02-19 06:38:01,618 (INFO)- django.utils.autoreload- /home/satriagitu/code/python-project/web_app_python_api/blogs/serializers.py changed, reloading.
+2024-02-19 06:38:02,280 (INFO)- django.utils.autoreload- Watching for file changes with StatReloader
+2024-02-19 06:38:29,315 (ERROR)- django.request- Internal Server Error: /api/v1/blog/post/
+Traceback (most recent call last):
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/models/fields/__init__.py", line 1774, in get_prep_value
+    return int(value)
+TypeError: int() argument must be a string, a bytes-like object or a real number, not 'User'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/views/generic/base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/generics.py", line 190, in post
+    return self.create(request, *args, **kwargs)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/mixins.py", line 19, in create
+    self.perform_create(serializer)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/mixins.py", line 24, in perform_create
+    serializer.save()
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/serializers.py", line 205, in save
+    self.instance = self.create(validated_data)
+  File "/home/satriagitu/code/python-project/web_app_python_api/blogs/serializers.py", line 31, in create
+    post = Post.objects.create(author_id=author_id, **validated_data)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/models/manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/models/query.py", line 447, in create
+    obj.save(force_insert=True, using=self.db)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/models/base.py", line 753, in save
+    self.save_base(using=using, force_insert=force_insert,
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/models/base.py", line 790, in save_base
+    updated = self._save_table(
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/models/base.py", line 895, in _save_table
+    results = self._do_insert(cls._base_manager, using, fields, returning_fields, raw)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/models/base.py", line 933, in _do_insert
+    return manager._insert(
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/models/manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/models/query.py", line 1254, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/models/sql/compiler.py", line 1396, in execute_sql
+    for sql, params in self.as_sql():
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/models/sql/compiler.py", line 1339, in as_sql
+    value_rows = [
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/models/sql/compiler.py", line 1340, in <listcomp>
+    [self.prepare_value(field, self.pre_save_val(field, obj)) for field in fields]
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/models/sql/compiler.py", line 1340, in <listcomp>
+    [self.prepare_value(field, self.pre_save_val(field, obj)) for field in fields]
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/models/sql/compiler.py", line 1281, in prepare_value
+    value = field.get_db_prep_save(value, connection=self.connection)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/models/fields/related.py", line 971, in get_db_prep_save
+    return self.target_field.get_db_prep_save(value, connection=connection)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/models/fields/__init__.py", line 823, in get_db_prep_save
+    return self.get_db_prep_value(value, connection=connection, prepared=False)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/models/fields/__init__.py", line 2388, in get_db_prep_value
+    value = self.get_prep_value(value)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/db/models/fields/__init__.py", line 1776, in get_prep_value
+    raise e.__class__(
+TypeError: Field 'id' expected a number but got <User: satria>.
+2024-02-19 06:42:07,311 (INFO)- django.utils.autoreload- /home/satriagitu/code/python-project/web_app_python_api/blogs/serializers.py changed, reloading.
+2024-02-19 06:42:07,669 (INFO)- django.utils.autoreload- Watching for file changes with StatReloader
+2024-02-19 06:43:38,169 (INFO)- django.utils.autoreload- /home/satriagitu/code/python-project/web_app_python_api/blogs/serializers.py changed, reloading.
+2024-02-19 06:43:38,549 (INFO)- django.utils.autoreload- Watching for file changes with StatReloader
+2024-02-19 06:44:08,014 (WARNING)- django.request- Unauthorized: /api/v1/blog/post/list/
+2024-02-19 06:44:15,655 (ERROR)- django.request- Internal Server Error: /api/v1/blog/post/
+Traceback (most recent call last):
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/views/generic/base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/generics.py", line 190, in post
+    return self.create(request, *args, **kwargs)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/mixins.py", line 19, in create
+    self.perform_create(serializer)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/mixins.py", line 24, in perform_create
+    serializer.save()
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/serializers.py", line 205, in save
+    self.instance = self.create(validated_data)
+  File "/home/satriagitu/code/python-project/web_app_python_api/blogs/serializers.py", line 36, in create
+    author_id = validated_data.pop('author')
+KeyError: 'author'
+2024-02-19 06:45:08,518 (INFO)- django.utils.autoreload- /home/satriagitu/code/python-project/web_app_python_api/blogs/serializers.py changed, reloading.
+2024-02-19 06:45:08,893 (INFO)- django.utils.autoreload- Watching for file changes with StatReloader
+2024-02-19 06:45:11,492 (INFO)- root- {'title': 'Post 14', 'content': 'Isi aja 14'}
+2024-02-19 06:45:11,519 (ERROR)- django.request- Internal Server Error: /api/v1/blog/post/
+Traceback (most recent call last):
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/views/generic/base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/generics.py", line 190, in post
+    return self.create(request, *args, **kwargs)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/mixins.py", line 19, in create
+    self.perform_create(serializer)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/mixins.py", line 24, in perform_create
+    serializer.save()
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/rest_framework/serializers.py", line 205, in save
+    self.instance = self.create(validated_data)
+  File "/home/satriagitu/code/python-project/web_app_python_api/blogs/serializers.py", line 40, in create
+    author_id = validated_data.pop('author')
+KeyError: 'author'
+2024-02-19 06:47:02,488 (INFO)- django.utils.autoreload- /home/satriagitu/code/python-project/web_app_python_api/blogs/serializers.py changed, reloading.
+2024-02-19 06:47:02,903 (INFO)- django.utils.autoreload- Watching for file changes with StatReloader
+2024-02-19 06:47:54,896 (INFO)- django.utils.autoreload- /home/satriagitu/code/python-project/web_app_python_api/blogs/serializers.py changed, reloading.
+2024-02-19 06:47:55,303 (INFO)- django.utils.autoreload- Watching for file changes with StatReloader
+2024-02-19 06:48:24,875 (INFO)- django.utils.autoreload- /home/satriagitu/code/python-project/web_app_python_api/blogs/serializers.py changed, reloading.
+2024-02-19 06:48:25,251 (INFO)- django.utils.autoreload- Watching for file changes with StatReloader
+2024-02-19 06:48:39,755 (INFO)- django.utils.autoreload- /home/satriagitu/code/python-project/web_app_python_api/blogs/views.py changed, reloading.
+2024-02-19 06:48:40,115 (INFO)- django.utils.autoreload- Watching for file changes with StatReloader
+2024-02-19 06:48:46,495 (INFO)- django.utils.autoreload- /home/satriagitu/code/python-project/web_app_python_api/blogs/views.py changed, reloading.
+2024-02-19 06:48:46,959 (INFO)- django.utils.autoreload- Watching for file changes with StatReloader
+2024-02-19 06:48:50,352 (WARNING)- django.request- Unauthorized: /api/v1/blog/post/list/
+2024-02-19 06:49:00,441 (WARNING)- django.request- Unauthorized: /api/v1/blog/post/
+2024-02-19 06:49:06,384 (WARNING)- django.request- Bad Request: /api/v1/blog/post/
+2024-02-19 06:49:21,901 (INFO)- django.utils.autoreload- /home/satriagitu/code/python-project/web_app_python_api/blogs/serializers.py changed, reloading.
+2024-02-19 06:49:22,226 (INFO)- django.utils.autoreload- Watching for file changes with StatReloader
+2024-02-19 06:49:25,443 (WARNING)- django.request- Unauthorized: /api/v1/blog/post/
+2024-02-19 07:01:31,297 (INFO)- django.utils.autoreload- /home/satriagitu/code/python-project/web_app_python_api/blogs/serializers.py changed, reloading.
+2024-02-19 07:01:31,634 (INFO)- django.utils.autoreload- Watching for file changes with StatReloader
+2024-02-19 07:01:48,930 (WARNING)- django.request- Unauthorized: /api/v1/blog/post/list/
+2024-02-19 11:41:28,179 (WARNING)- django.request- Unauthorized: /api/v1/blog/post/list/
+2024-02-19 11:41:31,922 (WARNING)- django.request- Unauthorized: /api/v1/auth/token/refresh/
+2024-02-19 11:41:34,405 (WARNING)- django.request- Unauthorized: /api/v1/auth/token/refresh/
+2024-02-19 11:41:47,383 (WARNING)- django.request- Unauthorized: /api/v1/blog/post/7/
+2024-02-19 11:42:19,502 (INFO)- django.utils.autoreload- /home/satriagitu/code/python-project/web_app_python_api/blogs/views.py changed, reloading.
+2024-02-19 11:42:20,174 (INFO)- django.utils.autoreload- Watching for file changes with StatReloader
+2024-02-19 11:42:30,806 (WARNING)- django.request- Unauthorized: /api/v1/blog/post/7/
+2024-02-19 11:42:47,928 (WARNING)- django.request- Unauthorized: /api/v1/blog/post/list/
+2024-02-19 11:43:05,267 (WARNING)- django.request- Unauthorized: /api/v1/blog/post/7/
+2024-02-19 11:44:09,415 (ERROR)- django.request- Internal Server Error: /api/v1/blog/post/7
+Traceback (most recent call last):
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/utils/deprecation.py", line 113, in __call__
+    response = self.process_request(request)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/middleware/common.py", line 54, in process_request
+    path = self.get_full_path_with_slash(request)
+  File "/home/satriagitu/.local/lib/python3.10/site-packages/django/middleware/common.py", line 87, in get_full_path_with_slash
+    raise RuntimeError(
+RuntimeError: You called this URL via PUT, but the URL doesn't end in a slash and you have APPEND_SLASH set. Django can't redirect to the slash URL while maintaining PUT data. Change your form to point to localhost:8000/api/v1/blog/post/7/ (note the trailing slash), or set APPEND_SLASH=False in your Django settings.
+2024-02-19 11:48:11,412 (WARNING)- django.request- Unauthorized: /api/v1/blog/post/7/
+2024-02-19 11:48:17,908 (WARNING)- django.request- Method Not Allowed: /api/v1/blog/post/7/
+2024-02-19 11:48:32,134 (WARNING)- django.request- Unauthorized: /api/v1/blog/post/7/
+2024-02-19 11:48:39,666 (WARNING)- django.request- Method Not Allowed: /api/v1/blog/post/7/
+2024-02-19 11:51:51,881 (INFO)- django.utils.autoreload- /home/satriagitu/code/python-project/web_app_python_api/blogs/urls.py changed, reloading.
+2024-02-19 11:51:52,148 (INFO)- django.utils.autoreload- Watching for file changes with StatReloader
+2024-02-19 11:52:41,799 (WARNING)- django.request- Not Found: /api/v1/blog/post/update/7/
+2024-02-19 11:53:02,764 (INFO)- django.utils.autoreload- /home/satriagitu/code/python-project/web_app_python_api/blogs/urls.py changed, reloading.
+2024-02-19 11:53:03,059 (INFO)- django.utils.autoreload- Watching for file changes with StatReloader
+2024-02-19 11:53:05,440 (WARNING)- django.request- Unauthorized: /api/v1/blog/post/update/7/
+2024-02-19 11:53:18,976 (WARNING)- django.request- Unauthorized: /api/v1/blog/post/list/
+2024-02-19 11:53:34,694 (WARNING)- django.request- Unauthorized: /api/v1/blog/post/delete/7/
+2024-02-19 11:55:56,201 (INFO)- django.utils.autoreload- /home/satriagitu/code/python-project/web_app_python_api/blogs/views.py changed, reloading.
+2024-02-19 11:55:56,460 (INFO)- django.utils.autoreload- Watching for file changes with StatReloader
+2024-02-19 11:55:58,600 (INFO)- django.utils.autoreload- /home/satriagitu/code/python-project/web_app_python_api/blogs/views.py changed, reloading.
+2024-02-19 11:55:58,820 (INFO)- django.utils.autoreload- Watching for file changes with StatReloader
+2024-02-19 11:56:13,006 (INFO)- django.utils.autoreload- /home/satriagitu/code/python-project/web_app_python_api/blogs/views.py changed, reloading.
+2024-02-19 11:56:13,254 (INFO)- django.utils.autoreload- Watching for file changes with StatReloader
